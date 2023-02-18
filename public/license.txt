@@ -1,0 +1,11 @@
+Model Information:
+* title:	Home-made sandwich
+* source:	https://sketchfab.com/3d-models/home-made-sandwich-470c868e32f946f3bc70436c9e700af1
+* author:	alban (https://sketchfab.com/alban)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Home-made sandwich" (https://sketchfab.com/3d-models/home-made-sandwich-470c868e32f946f3bc70436c9e700af1) by alban (https://sketchfab.com/alban) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
