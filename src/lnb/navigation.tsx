@@ -15,12 +15,9 @@ export function NavigationComponent() {
     return (
         <nav style={{position:"fixed" ,background:"white",width:"20%", height : window.innerHeight,display:"flex",  justifyContent:"start" , flexDirection: "column" }}>     
             
-            <div>
-                <Avatar alt="Kim Min Sub" className="loader" src="/이력서사진.jpg" />
-            </div>
             
             
-            <List>
+            <List sx={{width:"100%"}}>
 
             <ListItemButton component="a" href="#simple-list" >
                 <HouseIcon/>
